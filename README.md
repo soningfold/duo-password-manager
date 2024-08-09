@@ -1,0 +1,1 @@
+Creates a CLI password manager interacting with AWS's secret manager.
